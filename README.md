@@ -2,4 +2,8 @@
 
 Reusable Code Samples 
 
-Added Asmita section 
+#Contributors 
+
+Asmita Ghimire
+
+Nabin Rai
